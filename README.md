@@ -1,4 +1,4 @@
-# FloatingTextFieldSwiftUI
+# FloatingTextField
 
 A highly customizable and feature-rich floating label text field component for SwiftUI, inspired by Material Design principles.
 
@@ -31,7 +31,7 @@ Add the following to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/mohammadnabulsi/FloatingTextFieldSwiftUI.git", from: "1.0.0")
+    .package(url: "https://github.com/mohammadnabulsi/FloatingTextField.git", from: "1.0.0")
 ]
 ```
 
